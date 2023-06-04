@@ -1,0 +1,7 @@
+- This is a simple dice game between two players
+- each player has a total score and a current score both starting at zero
+- first player to hit the set goal score of 30 wins
+- the idea is that players roll the dice to increment their current score to maximum before they decide to HOLD that current score
+- when player holds, the current score is added to their total score, and game switches to other player
+- but if either player rolls a 1, score is NOT held and player switches
+- clicking the NEW GAME button resets the game, all scores to 0
